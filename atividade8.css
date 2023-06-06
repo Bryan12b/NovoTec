@@ -1,0 +1,35 @@
+*{
+    margin: 0;
+    padding: 0;
+    
+}
+
+body{
+    height: 100vh;
+}
+
+.head{
+    background-color:blue ;
+    display: flex;
+    height: 80px;
+    width: 100%;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.conteudo{
+    margin: 50px;
+}
+
+.rodape{
+    background-color: rgb(228, 242, 255);
+    display: flex;
+    justify-content: center;
+    height: 60px;
+    width: 100%;
+    align-items: center;
+    flex-wrap: wrap;
+    align-content: center;
+    position: absolute;
+  
+}
